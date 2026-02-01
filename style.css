@@ -1,0 +1,53 @@
+body {
+    font-family: Arial;
+    background: #ffffff;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.box {
+    background: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+}
+
+input, select, button {
+    padding: 6px;
+    margin: 5px 0;
+    width: 100%;
+}
+
+button {
+    background: #000;
+    color: #fff;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px;
+    margin-bottom: 5px;
+    border: 1px solid #ddd;
+}
+
+.income {
+    color: green;
+}
+
+.expense {
+    color: red;
+}
+
+.delete {
+    float: right;
+    cursor: pointer;
+    color: black;
+}
